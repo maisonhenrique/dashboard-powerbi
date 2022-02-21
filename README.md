@@ -1,2 +1,3 @@
 # dashboard-powerbi
-Curso Power BI Para Data Science - Versão 2.0
+Repositório de Dashboards feitos em Power BI
+Este repositório foi criado para compartilhar Dashboard feito em Power BI.
