@@ -3,7 +3,7 @@
 Um relatório em Dashboard não é simplesmente coletar dados e gerar gráficos. É necessário 
 uma modelagem minuciosas dos dados para um relatório final confiável. 
 
-O Dashboard a seguir é mais um exercício da Data Science Academy do 
+O Dashboard a seguir é mais um exercício da [Data Science Academy](https://www.datascienceacademy.com.br) do 
 curso Power BI para Data Science 2.0.
 
 Com isso temos que responder as seguintes perguntas:
