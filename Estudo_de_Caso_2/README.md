@@ -21,3 +21,4 @@ criação da Star Schema para montar o esquema de relacionamentos. Essa é uma e
 importante para o Power BI conseguir relacionar os dados de diferentes tabelas.
 
 Acesse o arquivo em PDF para visualizar o Dashboard final.
+
