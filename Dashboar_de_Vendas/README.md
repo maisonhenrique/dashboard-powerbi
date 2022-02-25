@@ -1,6 +1,6 @@
 # Dashboard-Vendas-Custo-KPI
 
-Continuando nos estudos do curso de Power BI para Data Science 2.0 da [Data Science Academy](https://www.datascienceacademy.com.br/start)
+Continuando nos estudos do curso de Power BI para Data Science 2.0 da [Data Science Academy](https://www.datascienceacademy.com.br/start).
 
 A proposta da atividade é criar um Dashboard para responder essas perguntas:
 
@@ -13,5 +13,5 @@ A proposta da atividade é criar um Dashboard para responder essas perguntas:
 4- Crie um KPI para monitorar a meta de margem de lucro.
 
 
-Para visuliar o resultado do relatório final acesse o arquivo em [PDF]().
+Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/9f7bdf318d0d13f343091fc26a4958fe71e8c39f/Dashboar_de_Vendas/Dashboard-Vendas.pdf).
 
