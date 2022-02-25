@@ -17,7 +17,7 @@ Com isso temos que responder as seguintes perguntas:
 4- Qual segmento tem maior influência no valor médio de venda?
 
 Para inicio do relatório fizemos um tratamento de dados e a
-criação da Star Schema para montar o esquema de relacionamentos. Essa é uma etapa 
+criação da [Star Schema](https://github.com/maisonhenrique/dashboard-powerbi/blob/9b4af1a9aa16d800dd732f30e4f8c5da558e27b3/Estudo_de_Caso_2/Modelo%20Star%20Schema.PNG) para montar o esquema de relacionamentos. Essa é uma etapa 
 importante para o Power BI conseguir relacionar os dados de diferentes tabelas.
 
 Acesse o arquivo em PDF para visualizar o Dashboard final.
