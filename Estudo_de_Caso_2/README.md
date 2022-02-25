@@ -1,4 +1,4 @@
-# Dashboard-Vendas-Custo-KPI
+# Dashboard-Estrategia-Vendas
 
 Um relatório em Dashboard não é simplesmente coletar dados e gerar gráficos. É necessário 
 uma modelagem minuciosas dos dados para um relatório final confiável. 
