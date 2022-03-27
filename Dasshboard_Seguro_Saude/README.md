@@ -4,5 +4,5 @@ Exercício sobre Análise de Gasto de uma Operadora de Plano de Saúde do curso 
 [Data Science Academy](https://www.datascienceacademy.com.br/start).
 
 
-Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/3f6477aeaf9fe1f62e3c48a2ebdbe85f5e30b472/Dashboard_Previsao/Dashboard-Previsao.pdf).
+Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/eaeae838d7e4a62ebfd211b42828835bffbc9e62/Dasshboard_Seguro_Saude/Dashboard%20Plano%20de%20Saude.pdf).
 
