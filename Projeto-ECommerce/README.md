@@ -15,5 +15,5 @@ O final do relatório devemos responder as seguintes perguntas:
 6. Qual o total de faturamento por dia?
 
 
-Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/3f6477aeaf9fe1f62e3c48a2ebdbe85f5e30b472/Dashboard_Previsao/Dashboard-Previsao.pdf).
+Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/0450026bcbf815490c31d591a149578af8f19c98/Projeto-ECommerce/Relat%C3%B3rio%20E-Commerce.pdf).
 
