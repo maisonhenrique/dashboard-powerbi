@@ -14,4 +14,8 @@ Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://
 
 ![Analise de Vendas - Varejo_page-0002](https://user-images.githubusercontent.com/99361817/168687161-b95f46d8-6646-4c2f-a900-57ed7e3166f0.jpg)
 
+<<<<<<< HEAD
 ![Analise de Vendas - Varejo_page-0003](https://user-images.githubusercontent.com/99361817/168687181-81b36dc2-6952-4f21-ab40-c730895f6c59.jpg)
+=======
+![Analise de Vendas - Varejo_page-0003](https://user-images.githubusercontent.com/99361817/168687181-81b36dc2-6952-4f21-ab40-c730895f6c59.jpg)
+>>>>>>> 5b38359b16c13d1682b8e6477eec25ff5ae9ab8c
