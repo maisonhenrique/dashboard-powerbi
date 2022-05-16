@@ -1,6 +1,9 @@
-# Dashboard PowerBi
+# Dashboard - Portifólio
 
-Este repositório foi criado para compartilhar Dashboard feitos em Power BI. 
+Este repositório foi criado para compartilhar Dashboard feitos em Power BI.
+
 Em cada pasta contém o arquivo .pbix e um arquivo .pdf com o relatório final.
 
-LinkedIn: https://www.linkedin.com/in/maison-henrique 
+
+**Objetivo:** Demonstrar meu aprendizado e evolução através dos cursos e estudos.
+
