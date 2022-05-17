@@ -1,11 +1,13 @@
 # Análise E-commerce
 
-Relatório sobre Análise de Dados gerado do Google Analytics. São dados hipotéticos de uma empresa de E-Commerce.
+Análise de Dados gerado do Google Analytics. 
+
+**Observação:** São dados hipotéticos de uma empresa de E-commerce.
 
 O Dashboard a seguir é mais um exercício da [Data Science Academy](https://www.datascienceacademy.com.br) do 
 curso Power BI para Data Science 2.0.
 
-O final do relatório devemos responder as seguintes perguntas:
+Ao final do relatório devemos responder as seguintes perguntas:
 
 * Como os clientes mais acessam nosso portal, por busca orgânica ou paga?
 * Quanto tempo em média um visitante permanece em nosso portal por dia do mês?
