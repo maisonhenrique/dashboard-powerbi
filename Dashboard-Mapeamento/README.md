@@ -1,11 +1,7 @@
 # Análise de Clientes - Geolocalização e Mapeamento
 
-<<<<<<< HEAD
-Relatório sobre Geolocalização e Mapeamento de Clientes por Saldo Bancário. 
-=======
 Relatório sobre Geolocalização e Mapeamento de Clientes por Saldo Bancário.
 
->>>>>>> 7bb665d482dd64a90408896446ee469c71b669cd
 Atividade do curso de Power BI para Data Science Versão 2.0 da [Data Science Academy](https://www.datascienceacademy.com.br/start).
 
 
