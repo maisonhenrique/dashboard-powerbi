@@ -23,4 +23,8 @@ Acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/bl
 
 ![Relatório E-Commerce_page-0001](https://user-images.githubusercontent.com/99361817/168710128-6ddc21db-e5cf-4093-a57e-92e781fe5e5a.jpg)
 
+<<<<<<< HEAD
 ![Relatório E-Commerce_page-0002](https://user-images.githubusercontent.com/99361817/168710141-d20b2f62-4a03-4c34-9bb3-90dc72a2ccba.jpg)
+=======
+![Relatório E-Commerce_page-0002](https://user-images.githubusercontent.com/99361817/168710141-d20b2f62-4a03-4c34-9bb3-90dc72a2ccba.jpg)
+>>>>>>> 7bb665d482dd64a90408896446ee469c71b669cd
