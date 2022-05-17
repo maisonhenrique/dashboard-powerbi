@@ -8,7 +8,7 @@ Nesse estudo de caso criei o Data Warehouse no PostgreSQL.
 
 ## Relatatório Final
 
-Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/63ceff1c1577a8dc67524e7a5e18e7f393f54082/Analise_Vendas_Varejo/Analise%20de%20Vendas%20-%20Varejo.pdf).
+Acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/63ceff1c1577a8dc67524e7a5e18e7f393f54082/Analise_Vendas_Varejo/Analise%20de%20Vendas%20-%20Varejo.pdf).
 
 ![Analise de Vendas - Varejo_page-0001](https://user-images.githubusercontent.com/99361817/168687114-2b212a69-1a26-4e7e-8c9d-03f3687eda2d.jpg)
 
