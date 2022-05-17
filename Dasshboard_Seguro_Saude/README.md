@@ -19,7 +19,7 @@ Dado o desafio, é preciso responder as perguntas abaixo:
 
 ## Relatório Final
 
-Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/eaeae838d7e4a62ebfd211b42828835bffbc9e62/Dasshboard_Seguro_Saude/Dashboard%20Plano%20de%20Saude.pdf).
+Acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/eaeae838d7e4a62ebfd211b42828835bffbc9e62/Dasshboard_Seguro_Saude/Dashboard%20Plano%20de%20Saude.pdf).
 
 ![Dashboard Plano de Saude_page-0001](https://user-images.githubusercontent.com/99361817/168708316-8b91f554-0da3-4e41-bf5c-891cba5cdad0.jpg)
 
