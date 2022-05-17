@@ -1,6 +1,6 @@
 # Análise E-commerce
 
-Análise de Dados gerado do Google Analytics. 
+Análise de Dados gerado do Google Analytics.
 
 **Observação:** São dados hipotéticos de uma empresa de E-commerce.
 
@@ -19,7 +19,7 @@ Ao final do relatório devemos responder as seguintes perguntas:
 
 ## Relatório Final
 
-Para visuliar o resultado do relatório final acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/0450026bcbf815490c31d591a149578af8f19c98/Projeto-ECommerce/Relat%C3%B3rio%20E-Commerce.pdf).
+Acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/0450026bcbf815490c31d591a149578af8f19c98/Projeto-ECommerce/Relat%C3%B3rio%20E-Commerce.pdf).
 
 ![Relatório E-Commerce_page-0001](https://user-images.githubusercontent.com/99361817/168710128-6ddc21db-e5cf-4093-a57e-92e781fe5e5a.jpg)
 
