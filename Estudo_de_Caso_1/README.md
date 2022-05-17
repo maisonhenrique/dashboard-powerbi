@@ -14,6 +14,6 @@ Antes de responder essas perguntas é necessário fazer o tratamento de dados. E
 
 ## Relatório Final
 
-Para visualizar o relatório final cesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/4db969b9b5ae4959ebcbcd48f83e423dcda6f0ed/Estudo_de_Caso_1/EstudoCaso1.pdf). 
+Acesse o arquivo em [PDF](https://github.com/maisonhenrique/dashboard-powerbi/blob/4db969b9b5ae4959ebcbcd48f83e423dcda6f0ed/Estudo_de_Caso_1/EstudoCaso1.pdf). 
 
 ![EstudoCaso1_page-0001](https://user-images.githubusercontent.com/99361817/168708809-27b7c647-9e5a-448e-a369-7c2bf3b5c8ef.jpg)
